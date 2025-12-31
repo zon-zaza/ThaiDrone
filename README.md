@@ -1,2 +1,0 @@
-# ThaiDrone
-none
